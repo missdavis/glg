@@ -1,2 +1,2 @@
 # glg
-The mockup/demo website I made for Gloss Lip Goddess in 2020. Main website was built using Shopify's API, but I kept this one in case they decided to move to Wordpress/Magneto. 
+The mockup website I made for Gloss Lip Goddess in 2020. The final version with all product and shopping pages was built in Shopify. However I kept this as a starting point in case they decided to move to Wordpress/Magneto. 
